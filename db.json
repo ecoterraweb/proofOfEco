@@ -99,16 +99,6 @@
           "type": "Certificación",
           "slug": "organico",
           "object": "Producto"
-        },
-        {
-          "id": 4,
-          "cat": "Naturaleza",
-          "title": "Registro con ingredientes utilizados y comprobantes de los procesos de producción libres de uso de ingredientes de origen animales o relacionados con la faena de ganado.",
-          "description": "Este producto no contiene ningún ingrediente que sea el resultado de la matanza de animales, ni utiliza ninguno en el proceso de producción.",
-          "image": "https://raw.githubusercontent.com/ecoterraweb/proofOfEco/master/assets/vegetariano.svg",
-          "type": "Sello",
-          "slug": "vegetariano",
-          "object": "Producto"
         }
       ]
     }
