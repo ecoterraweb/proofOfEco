@@ -8,7 +8,60 @@
       "image": "https://raw.githubusercontent.com/ecoterraweb/proofOfEco/master/assets/empresa-b.svg",
       "type": "Sello",
       "slug": "b-corp",
-      "object": "Productor"
+      "object": "Productor",
+      "products": [
+        {
+          "id": 1,
+          "title": "Huevo Color Gallina Libre 10 Und",
+          "price": "$4.790"
+        },
+        {
+          "id": 2,
+          "title": "Quinoa orgánica 400 gr Ecoterra",
+          "price": "$2.790"
+        }
+      ],
+      "producers": [
+        {
+          "lat": -33.81583457587863,
+          "lng": -70.7728365870521,
+          "title": "Ecoterra",
+          "description": "Ecoterra",
+          "products": [
+            {
+              "id": 1,
+              "title": "Huevo Color Gallina Libre 10 Und",
+              "price": "$4.790"
+            }
+          ]
+        },
+        {
+          "lat": -33.855326,
+          "lng": -70.7582176,
+          "title": "Ana luisa",
+          "description": "Ana luisa",
+          "products": [
+            {
+              "id": 1,
+              "title": "Huevo Color Gallina Libre 10 Und",
+              "price": "$4.790"
+            }
+          ]
+        },
+        {
+          "lat": -33.8831703,
+          "lng": -70.7332725,
+          "title": "Marianela",
+          "description": "Marianela",
+          "products": [
+            {
+              "id": 1,
+              "title": "Huevo Color Gallina Libre 10 Und",
+              "price": "$4.790"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": 2,
@@ -71,6 +124,142 @@
       "id": 2,
       "claims": [
         {
+          "id": 4,
+          "cat": "Gluten",
+          "title": "Libre de gluten",
+          "description": "Producto libre de gluten",
+          "image": "https://raw.githubusercontent.com/ecoterraweb/proofOfEco/master/assets/gluten.svg",
+          "type": "Certificación",
+          "slug": "gluten",
+          "object": "Producto"
+        }
+      ],
+      "producers": [
+        {
+          "lat": -33.81583457587863,
+          "lng": -70.7728365870521,
+          "title": "Ecoterra",
+          "description": "Ecoterra",
+          "claims": [
+            {
+              "id": 1,
+              "cat": "Bienestar socioeconómico",
+              "title": "Sello B Corp",
+              "description": "B Corporation es una certificación ofrecida por B Lab, una organización independiente, no gubernamental y sin fines de lucro. La certificación evalúa el rendimiento social y ambiental de una empresa, desde la cadena de suministro y los materiales de entrada hasta la donación caritativa y los beneficios para los empleados. La certificación B Corp señala la intención de una empresa de mantener el propósito en el núcleo de la compañía.",
+              "image": "https://raw.githubusercontent.com/ecoterraweb/proofOfEco/master/assets/empresa-b.svg",
+              "type": "Sello",
+              "slug": "b-corp",
+              "object": "Productor"
+            },
+            {
+              "id": 2,
+              "cat": "Naturaleza",
+              "title": "Certificado RSPCA Standards",
+              "description": "Mejoramiento del bienestar animal en sistemas agrícolas y de acuicultura. Los estándares son específicos al tipo de agricultura (interior, exterior, de libre pastoreo o orgánico) y cubren toda la cadena de producción (desde la salud y la dieta hasta el sacrificio).",
+              "image": "https://raw.githubusercontent.com/ecoterraweb/proofOfEco/master/assets/bienestar.svg",
+              "type": "Certificación",
+              "slug": "bienestar-animal",
+              "object": "Productor"
+            },
+            {
+              "id": 3,
+              "cat": "Naturaleza",
+              "title": "Certificación según legislación e instituciones del origen; Cosmos Organic - ECOCERT",
+              "description": "Certificación según legislación e instituciones del origen; Cosmos Organic - ECOCERT",
+              "image": "https://raw.githubusercontent.com/ecoterraweb/proofOfEco/master/assets/organico.svg",
+              "type": "Certificación",
+              "slug": "organico",
+              "object": "Productor"
+            }
+          ]
+        },
+        {
+          "lat": -33.855326,
+          "lng": -70.7582176,
+          "title": "Ana luisa",
+          "description": "Ana luisa",
+          "claims": [
+            {
+              "id": 1,
+              "cat": "Bienestar socioeconómico",
+              "title": "Sello B Corp",
+              "description": "B Corporation es una certificación ofrecida por B Lab, una organización independiente, no gubernamental y sin fines de lucro. La certificación evalúa el rendimiento social y ambiental de una empresa, desde la cadena de suministro y los materiales de entrada hasta la donación caritativa y los beneficios para los empleados. La certificación B Corp señala la intención de una empresa de mantener el propósito en el núcleo de la compañía.",
+              "image": "https://raw.githubusercontent.com/ecoterraweb/proofOfEco/master/assets/empresa-b.svg",
+              "type": "Sello",
+              "slug": "b-corp",
+              "object": "Productor"
+            },
+            {
+              "id": 2,
+              "cat": "Naturaleza",
+              "title": "Certificado RSPCA Standards",
+              "description": "Mejoramiento del bienestar animal en sistemas agrícolas y de acuicultura. Los estándares son específicos al tipo de agricultura (interior, exterior, de libre pastoreo o orgánico) y cubren toda la cadena de producción (desde la salud y la dieta hasta el sacrificio).",
+              "image": "https://raw.githubusercontent.com/ecoterraweb/proofOfEco/master/assets/bienestar.svg",
+              "type": "Certificación",
+              "slug": "bienestar-animal",
+              "object": "Productor"
+            },
+            {
+              "id": 3,
+              "cat": "Naturaleza",
+              "title": "Certificación según legislación e instituciones del origen; Cosmos Organic - ECOCERT",
+              "description": "Certificación según legislación e instituciones del origen; Cosmos Organic - ECOCERT",
+              "image": "https://raw.githubusercontent.com/ecoterraweb/proofOfEco/master/assets/organico.svg",
+              "type": "Certificación",
+              "slug": "organico",
+              "object": "Productor"
+            }
+          ]
+        },
+        {
+          "lat": -33.8831703,
+          "lng": -70.7332725,
+          "title": "Marianela",
+          "description": "Marianela",
+          "claims": [
+            {
+              "id": 1,
+              "cat": "Bienestar socioeconómico",
+              "title": "Sello B Corp",
+              "description": "B Corporation es una certificación ofrecida por B Lab, una organización independiente, no gubernamental y sin fines de lucro. La certificación evalúa el rendimiento social y ambiental de una empresa, desde la cadena de suministro y los materiales de entrada hasta la donación caritativa y los beneficios para los empleados. La certificación B Corp señala la intención de una empresa de mantener el propósito en el núcleo de la compañía.",
+              "image": "https://raw.githubusercontent.com/ecoterraweb/proofOfEco/master/assets/empresa-b.svg",
+              "type": "Sello",
+              "slug": "b-corp",
+              "object": "Productor"
+            },
+            {
+              "id": 2,
+              "cat": "Naturaleza",
+              "title": "Certificado RSPCA Standards",
+              "description": "Mejoramiento del bienestar animal en sistemas agrícolas y de acuicultura. Los estándares son específicos al tipo de agricultura (interior, exterior, de libre pastoreo o orgánico) y cubren toda la cadena de producción (desde la salud y la dieta hasta el sacrificio).",
+              "image": "https://raw.githubusercontent.com/ecoterraweb/proofOfEco/master/assets/bienestar.svg",
+              "type": "Certificación",
+              "slug": "bienestar-animal",
+              "object": "Productor"
+            },
+            {
+              "id": 3,
+              "cat": "Naturaleza",
+              "title": "Certificación según legislación e instituciones del origen; Cosmos Organic - ECOCERT",
+              "description": "Certificación según legislación e instituciones del origen; Cosmos Organic - ECOCERT",
+              "image": "https://raw.githubusercontent.com/ecoterraweb/proofOfEco/master/assets/organico.svg",
+              "type": "Certificación",
+              "slug": "organico",
+              "object": "Productor"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "producers": [
+    {
+      "lat": -33.81583457587863,
+      "lng": -70.7728365870521,
+      "title": "Ecoterra",
+      "description": "Ecoterra",
+      "claims": [
+        {
           "id": 1,
           "cat": "Bienestar socioeconómico",
           "title": "Sello B Corp",
@@ -88,7 +277,7 @@
           "image": "https://raw.githubusercontent.com/ecoterraweb/proofOfEco/master/assets/bienestar.svg",
           "type": "Certificación",
           "slug": "bienestar-animal",
-          "object": "Producto"
+          "object": "Productor"
         },
         {
           "id": 3,
@@ -98,7 +287,102 @@
           "image": "https://raw.githubusercontent.com/ecoterraweb/proofOfEco/master/assets/organico.svg",
           "type": "Certificación",
           "slug": "organico",
-          "object": "Producto"
+          "object": "Productor"
+        }
+      ],
+      "products": [
+        {
+          "id": 1,
+          "title": "Huevo Color Gallina Libre 10 Und",
+          "price": "$4.790"
+        },
+        {
+          "id": 2,
+          "title": "Quinoa orgánica 400 gr Ecoterra",
+          "price": "$2.790"
+        }
+      ]
+    },
+    {
+      "lat": -33.855326,
+      "lng": -70.7582176,
+      "title": "Ana luisa",
+      "description": "Ana luisa",
+      "claims": [
+        {
+          "id": 1,
+          "cat": "Bienestar socioeconómico",
+          "title": "Sello B Corp",
+          "description": "B Corporation es una certificación ofrecida por B Lab, una organización independiente, no gubernamental y sin fines de lucro. La certificación evalúa el rendimiento social y ambiental de una empresa, desde la cadena de suministro y los materiales de entrada hasta la donación caritativa y los beneficios para los empleados. La certificación B Corp señala la intención de una empresa de mantener el propósito en el núcleo de la compañía.",
+          "image": "https://raw.githubusercontent.com/ecoterraweb/proofOfEco/master/assets/empresa-b.svg",
+          "type": "Sello",
+          "slug": "b-corp",
+          "object": "Productor"
+        },
+        {
+          "id": 2,
+          "cat": "Naturaleza",
+          "title": "Certificado RSPCA Standards",
+          "description": "Mejoramiento del bienestar animal en sistemas agrícolas y de acuicultura. Los estándares son específicos al tipo de agricultura (interior, exterior, de libre pastoreo o orgánico) y cubren toda la cadena de producción (desde la salud y la dieta hasta el sacrificio).",
+          "image": "https://raw.githubusercontent.com/ecoterraweb/proofOfEco/master/assets/bienestar.svg",
+          "type": "Certificación",
+          "slug": "bienestar-animal",
+          "object": "Productor"
+        },
+        {
+          "id": 3,
+          "cat": "Naturaleza",
+          "title": "Certificación según legislación e instituciones del origen; Cosmos Organic - ECOCERT",
+          "description": "Certificación según legislación e instituciones del origen; Cosmos Organic - ECOCERT",
+          "image": "https://raw.githubusercontent.com/ecoterraweb/proofOfEco/master/assets/organico.svg",
+          "type": "Certificación",
+          "slug": "organico",
+          "object": "Productor"
+        }
+      ]
+    },
+    {
+      "lat": -33.8831703,
+      "lng": -70.7332725,
+      "title": "Marianela",
+      "description": "Marianela",
+      "claims": [
+        {
+          "id": 1,
+          "cat": "Bienestar socioeconómico",
+          "title": "Sello B Corp",
+          "description": "B Corporation es una certificación ofrecida por B Lab, una organización independiente, no gubernamental y sin fines de lucro. La certificación evalúa el rendimiento social y ambiental de una empresa, desde la cadena de suministro y los materiales de entrada hasta la donación caritativa y los beneficios para los empleados. La certificación B Corp señala la intención de una empresa de mantener el propósito en el núcleo de la compañía.",
+          "image": "https://raw.githubusercontent.com/ecoterraweb/proofOfEco/master/assets/empresa-b.svg",
+          "type": "Sello",
+          "slug": "b-corp",
+          "object": "Productor"
+        },
+        {
+          "id": 2,
+          "cat": "Naturaleza",
+          "title": "Certificado RSPCA Standards",
+          "description": "Mejoramiento del bienestar animal en sistemas agrícolas y de acuicultura. Los estándares son específicos al tipo de agricultura (interior, exterior, de libre pastoreo o orgánico) y cubren toda la cadena de producción (desde la salud y la dieta hasta el sacrificio).",
+          "image": "https://raw.githubusercontent.com/ecoterraweb/proofOfEco/master/assets/bienestar.svg",
+          "type": "Certificación",
+          "slug": "bienestar-animal",
+          "object": "Productor"
+        },
+        {
+          "id": 3,
+          "cat": "Naturaleza",
+          "title": "Certificación según legislación e instituciones del origen; Cosmos Organic - ECOCERT",
+          "description": "Certificación según legislación e instituciones del origen; Cosmos Organic - ECOCERT",
+          "image": "https://raw.githubusercontent.com/ecoterraweb/proofOfEco/master/assets/organico.svg",
+          "type": "Certificación",
+          "slug": "organico",
+          "object": "Productor"
+        }
+      ],
+      "products": [
+        {
+          "id": 1,
+          "title": "Huevo Color Gallina Libre 10 Und",
+          "price": "$4.790"
         }
       ]
     }
