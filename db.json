@@ -34,6 +34,13 @@
           },
           "name": "Ecoterra",
           "description": "Ecoterra",
+          "evidence": [
+            {
+              "EvidenceId": 1,
+              "filename": "Nombre 1",
+              "cid": "https://sdas"
+            }
+          ],
           "products": [
             {
               "productId": 1,
@@ -50,6 +57,13 @@
           },
           "name": "Ana luisa",
           "description": "Ana luisa",
+          "evidence": [
+            {
+              "EvidenceId": 2,
+              "filename": "Nombre 2",
+              "cid": "https://sdas"
+            }
+          ],
           "products": [
             {
               "productId": 1,
@@ -66,6 +80,13 @@
           },
           "name": "Marianela",
           "description": "Marianela",
+          "evidence": [
+            {
+              "EvidenceId": 3,
+              "filename": "Nombre 3",
+              "cid": "https://sdas"
+            }
+          ],
           "products": [
             {
               "id": 1,
@@ -105,6 +126,13 @@
           },
           "name": "Ecoterra",
           "description": "Ecoterra",
+          "evidence": [
+            {
+              "EvidenceId": 4,
+              "filename": "Nombre 4",
+              "cid": "https://sdas"
+            }
+          ],
           "products": [
             {
               "productId": 1,
@@ -148,6 +176,13 @@
           },
           "name": "Ecoterra",
           "description": "Ecoterra",
+          "evidence": [
+            {
+              "EvidenceId": 5,
+              "filename": "Nombre 5",
+              "cid": "https://sdas"
+            }
+          ],
           "products": [
             {
               "productId": 1,
@@ -206,11 +241,30 @@
       "products": [
         {
           "productId": 1,
-          "name": "Huevo Color Gallina Libre 10 Und"
+          "name": "Huevo Color Gallina Libre 10 Und",
+          "evidence": [
+            {
+              "EvidenceId": 6,
+              "filename": "Nombre 6",
+              "cid": "https://sdas"
+            }
+          ]
         },
         {
           "productId": 2,
-          "name": "Quinoa orgánica 400 gr Ecoterra"
+          "name": "Quinoa orgánica 400 gr Ecoterra",
+          "evidence": [
+            {
+              "EvidenceId": 7,
+              "filename": "Nombre 8",
+              "cid": "https://sdas"
+            },
+            {
+              "EvidenceId": 8,
+              "filename": "Nombre 9",
+              "cid": "https://sdas"
+            }
+          ]
         }
       ],
       "producers": [
@@ -226,7 +280,14 @@
           "products": [
             {
               "productId": 1,
-              "name": "Huevo Color Gallina Libre 10 Und"
+              "name": "Huevo Color Gallina Libre 10 Und",
+              "evidence": [
+                {
+                  "EvidenceId": 6,
+                  "filename": "Nombre 6",
+                  "cid": "https://sdas"
+                }
+              ]
             }
           ]
         },
@@ -242,7 +303,19 @@
           "products": [
             {
               "productId": 1,
-              "name": "Huevo Color Gallina Libre 10 Und"
+              "name": "Huevo Color Gallina Libre 10 Und",
+              "evidence": [
+                {
+                  "EvidenceId": 7,
+                  "filename": "Nombre 8",
+                  "cid": "https://sdas"
+                },
+                {
+                  "EvidenceId": 8,
+                  "filename": "Nombre 9",
+                  "cid": "https://sdas"
+                }
+              ]
             }
           ]
         },
@@ -258,7 +331,19 @@
           "products": [
             {
               "id": 1,
-              "name": "Huevo Color Gallina Libre 10 Und"
+              "name": "Huevo Color Gallina Libre 10 Und",
+              "evidence": [
+                {
+                  "EvidenceId": 7,
+                  "filename": "Nombre 8",
+                  "cid": "https://sdas"
+                },
+                {
+                  "EvidenceId": 8,
+                  "filename": "Nombre 9",
+                  "cid": "https://sdas"
+                }
+              ]
             }
           ]
         }
@@ -307,7 +392,19 @@
           "blockchainTx": "0x4523523523523523324242342",
           "validTo": "05/02/2023",
           "ValidFrom": "09/02/2024",
-          "recertificationPeriod": "60"
+          "recertificationPeriod": "60",
+          "evidence": [
+            {
+              "EvidenceId": 7,
+              "filename": "Nombre 8",
+              "cid": "https://sdas"
+            },
+            {
+              "EvidenceId": 8,
+              "filename": "Nombre 9",
+              "cid": "https://sdas"
+            }
+          ]
         },
         {
           "claimId": 2,
@@ -500,7 +597,19 @@
           "blockchainTx": "0x4523523523523523324242342",
           "validTo": "05/02/2023",
           "ValidFrom": "09/02/2024",
-          "recertificationPeriod": "0"
+          "recertificationPeriod": "0",
+          "evidence": [
+            {
+              "EvidenceId": 7,
+              "filename": "Nombre 8",
+              "cid": "https://sdas"
+            },
+            {
+              "EvidenceId": 8,
+              "filename": "Nombre 9",
+              "cid": "https://sdas"
+            }
+          ]
         }
       ],
       "producers": [
@@ -527,7 +636,19 @@
               "blockchainTx": "0x4523523523523523324242342",
               "validTo": "05/02/2023",
               "ValidFrom": "09/02/2024",
-              "recertificationPeriod": "60"
+              "recertificationPeriod": "60",
+              "evidence": [
+                {
+                  "EvidenceId": 7,
+                  "filename": "Nombre 8",
+                  "cid": "https://sdas"
+                },
+                {
+                  "EvidenceId": 8,
+                  "filename": "Nombre 9",
+                  "cid": "https://sdas"
+                }
+              ]
             },
             {
               "claimId": 2,
@@ -542,7 +663,19 @@
               "blockchainTx": "0x4523523523523523324242342",
               "validTo": "05/02/2023",
               "ValidFrom": "09/02/2024",
-              "recertificationPeriod": "30"
+              "recertificationPeriod": "30",
+              "evidence": [
+                {
+                  "EvidenceId": 7,
+                  "filename": "Nombre 8",
+                  "cid": "https://sdas"
+                },
+                {
+                  "EvidenceId": 8,
+                  "filename": "Nombre 9",
+                  "cid": "https://sdas"
+                }
+              ]
             },
             {
               "claimId": 3,
@@ -557,7 +690,19 @@
               "blockchainTx": "0x4523523523523523324242342",
               "validTo": "05/02/2023",
               "ValidFrom": "09/02/2024",
-              "recertificationPeriod": "60"
+              "recertificationPeriod": "60",
+              "evidence": [
+                {
+                  "EvidenceId": 7,
+                  "filename": "Nombre 8",
+                  "cid": "https://sdas"
+                },
+                {
+                  "EvidenceId": 8,
+                  "filename": "Nombre 9",
+                  "cid": "https://sdas"
+                }
+              ]
             }
           ]
         },
@@ -755,7 +900,19 @@
           "blockchainTx": "0x4523523523523523324242342",
           "validTo": "05/02/2023",
           "ValidFrom": "09/02/2024",
-          "recertificationPeriod": "60"
+          "recertificationPeriod": "60",
+          "evidence": [
+            {
+              "EvidenceId": 7,
+              "filename": "Nombre 8",
+              "cid": "https://sdas"
+            },
+            {
+              "EvidenceId": 8,
+              "filename": "Nombre 9",
+              "cid": "https://sdas"
+            }
+          ]
         },
         {
           "claimId": 2,
@@ -770,7 +927,19 @@
           "blockchainTx": "0x4523523523523523324242342",
           "validTo": "05/02/2023",
           "ValidFrom": "09/02/2024",
-          "recertificationPeriod": "30"
+          "recertificationPeriod": "30",
+          "evidence": [
+            {
+              "EvidenceId": 7,
+              "filename": "Nombre 8",
+              "cid": "https://sdas"
+            },
+            {
+              "EvidenceId": 8,
+              "filename": "Nombre 9",
+              "cid": "https://sdas"
+            }
+          ]
         },
         {
           "claimId": 3,
@@ -785,7 +954,19 @@
           "blockchainTx": "0x4523523523523523324242342",
           "validTo": "05/02/2023",
           "ValidFrom": "09/02/2024",
-          "recertificationPeriod": "60"
+          "recertificationPeriod": "60",
+          "evidence": [
+            {
+              "EvidenceId": 7,
+              "filename": "Nombre 8",
+              "cid": "https://sdas"
+            },
+            {
+              "EvidenceId": 8,
+              "filename": "Nombre 9",
+              "cid": "https://sdas"
+            }
+          ]
         }
       ]
     },
@@ -812,7 +993,19 @@
           "blockchainTx": "0x4523523523523523324242342",
           "validTo": "05/02/2023",
           "ValidFrom": "09/02/2024",
-          "recertificationPeriod": "60"
+          "recertificationPeriod": "60",
+          "evidence": [
+            {
+              "EvidenceId": 7,
+              "filename": "Nombre 8",
+              "cid": "https://sdas"
+            },
+            {
+              "EvidenceId": 8,
+              "filename": "Nombre 9",
+              "cid": "https://sdas"
+            }
+          ]
         },
         {
           "claimId": 2,
@@ -827,7 +1020,19 @@
           "blockchainTx": "0x4523523523523523324242342",
           "validTo": "05/02/2023",
           "ValidFrom": "09/02/2024",
-          "recertificationPeriod": "30"
+          "recertificationPeriod": "30",
+          "evidence": [
+            {
+              "EvidenceId": 7,
+              "filename": "Nombre 8",
+              "cid": "https://sdas"
+            },
+            {
+              "EvidenceId": 8,
+              "filename": "Nombre 9",
+              "cid": "https://sdas"
+            }
+          ]
         },
         {
           "claimId": 3,
@@ -842,7 +1047,19 @@
           "blockchainTx": "0x4523523523523523324242342",
           "validTo": "05/02/2023",
           "ValidFrom": "09/02/2024",
-          "recertificationPeriod": "60"
+          "recertificationPeriod": "60",
+          "evidence": [
+            {
+              "EvidenceId": 7,
+              "filename": "Nombre 8",
+              "cid": "https://sdas"
+            },
+            {
+              "EvidenceId": 8,
+              "filename": "Nombre 9",
+              "cid": "https://sdas"
+            }
+          ]
         }
       ],
       "products": [
