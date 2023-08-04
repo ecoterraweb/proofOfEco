@@ -1,7 +1,7 @@
 {
   "claims": [
     {
-      "claimId": 1,
+      "id": 1,
       "cid": 1,
       "categoryName": "Bienestar socioeconómico",
       "claimName": "Sello B Corp",
@@ -32,7 +32,6 @@
             "lng": -70.7728365870521,
             "absolute": false
           },
-          "imgUrl": "https://lamanzanamordida.net/app/uploads-lamanzanamordida.net/2022/02/Aprender-ingles-en-una-granja-1080x675-1-1200x675.jpeg",
           "name": "Ecoterra",
           "description": "Ecoterra",
           "evidence": [
@@ -57,7 +56,6 @@
             "absolute": false
           },
           "name": "Ana luisa",
-          "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQw8aXUiuD8qtvw6yWk9bBEKvVwLVUPI3dlP61TIq8pnFjegP32cSL7CVP72vXJpfVVUU&usqp=CAU",
           "description": "Ana luisa",
           "evidence": [
             {
@@ -80,7 +78,6 @@
             "lng": -70.7332725,
             "absolute": false
           },
-          "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQw8aXUiuD8qtvw6yWk9bBEKvVwLVUPI3dlP61TIq8pnFjegP32cSL7CVP72vXJpfVVUU&usqp=CAU",
           "name": "Marianela",
           "description": "Marianela",
           "evidence": [
@@ -100,7 +97,7 @@
       ]
     },
     {
-      "claimId": 2,
+      "id": 2,
       "cid": 2,
       "categoryName": "bienestar animal",
       "claimName": "Certificado RSPCA Standards",
@@ -128,7 +125,6 @@
             "absolute": false
           },
           "name": "Ecoterra",
-          "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQw8aXUiuD8qtvw6yWk9bBEKvVwLVUPI3dlP61TIq8pnFjegP32cSL7CVP72vXJpfVVUU&usqp=CAU",
           "description": "Ecoterra",
           "evidence": [
             {
@@ -147,7 +143,7 @@
       ]
     },
     {
-      "claimId": 3,
+      "id": 3,
       "cid": 3,
       "categoryName": "Naturaleza",
       "claimName": "Certificación según legislación e instituciones del origen; Cosmos Organic - ECOCERT",
@@ -179,7 +175,6 @@
             "absolute": false
           },
           "name": "Ecoterra",
-          "imgUrl": "https://lamanzanamordida.net/app/uploads-lamanzanamordida.net/2022/02/Aprender-ingles-en-una-granja-1080x675-1-1200x675.jpeg",
           "description": "Ecoterra",
           "evidence": [
             {
@@ -203,7 +198,6 @@
             "absolute": false
           },
           "name": "Ana luisa",
-          "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQw8aXUiuD8qtvw6yWk9bBEKvVwLVUPI3dlP61TIq8pnFjegP32cSL7CVP72vXJpfVVUU&usqp=CAU",
           "description": "Ana luisa",
           "products": [
             {
@@ -220,7 +214,6 @@
             "absolute": false
           },
           "name": "Marianela",
-          "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQw8aXUiuD8qtvw6yWk9bBEKvVwLVUPI3dlP61TIq8pnFjegP32cSL7CVP72vXJpfVVUU&usqp=CAU",
           "description": "Marianela",
           "products": [
             {
@@ -232,7 +225,7 @@
       ]
     },
     {
-      "claimId": 4,
+      "id": 4,
       "cid": 3,
       "categoryName": "Naturaleza",
       "claimName": "Registro con ingredientes utilizados y comprobantes de los procesos de producción libres de uso de ingredientes de origen animales o relacionados con la faena de ganado.",
@@ -284,7 +277,6 @@
           },
           "name": "Ecoterra",
           "description": "Ecoterra",
-          "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQw8aXUiuD8qtvw6yWk9bBEKvVwLVUPI3dlP61TIq8pnFjegP32cSL7CVP72vXJpfVVUU&usqp=CAU",
           "products": [
             {
               "productId": 1,
@@ -308,7 +300,6 @@
           },
           "name": "Ana luisa",
           "description": "Ana luisa",
-          "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQw8aXUiuD8qtvw6yWk9bBEKvVwLVUPI3dlP61TIq8pnFjegP32cSL7CVP72vXJpfVVUU&usqp=CAU",
           "products": [
             {
               "productId": 1,
@@ -337,7 +328,6 @@
           },
           "name": "Marianela",
           "description": "Marianela",
-          "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQw8aXUiuD8qtvw6yWk9bBEKvVwLVUPI3dlP61TIq8pnFjegP32cSL7CVP72vXJpfVVUU&usqp=CAU",
           "products": [
             {
               "id": 1,
@@ -360,7 +350,7 @@
       ]
     },
     {
-      "claimId": 5,
+      "id": 5,
       "cid": 4,
       "categoryName": "Gluten",
       "claimName": "Libre de gluten",
@@ -828,7 +818,6 @@
       },
       "name": "Ecoterra",
       "description": "Ecoterra",
-      "imgUrl": "https://lamanzanamordida.net/app/uploads-lamanzanamordida.net/2022/02/Aprender-ingles-en-una-granja-1080x675-1-1200x675.jpeg",
       "videoUrl": "videoUrl",
       "claims": [
         {
@@ -896,8 +885,6 @@
         "absolute": false
       },
       "name": "Ana luisa",
-      "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQw8aXUiuD8qtvw6yWk9bBEKvVwLVUPI3dlP61TIq8pnFjegP32cSL7CVP72vXJpfVVUU&usqp=CAU",
-      "videoUrl": "videoUrl",
       "description": "Ana luisa",
       "claims": [
         {
@@ -992,8 +979,6 @@
       },
       "name": "Marianela",
       "description": "Marianela",
-      "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQw8aXUiuD8qtvw6yWk9bBEKvVwLVUPI3dlP61TIq8pnFjegP32cSL7CVP72vXJpfVVUU&usqp=CAU",
-      "videoUrl": "videoUrl",
       "claims": [
         {
           "id": 1,
@@ -1088,5 +1073,8 @@
         }
       ]
     }
-  ]
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
